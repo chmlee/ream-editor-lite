@@ -1,3 +1,7 @@
 [submodule "ream-demo"]
 	path = ream-demo
 	url = https://github.com/chmlee/ream-demo
+[submodule "reamparser.js"]
+	path = reamparser.js
+	url = https://github.com/chmlee/reamparser.js
+	branch = dist
