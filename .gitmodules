@@ -1,0 +1,3 @@
+[submodule "ream-demo"]
+	path = ream-demo
+	url = https://github.com/chmlee/ream-demo
