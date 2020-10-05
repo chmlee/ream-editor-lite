@@ -33,8 +33,8 @@
 </template>
 
 <script>
-import { MdFile } from './markdata/markdata.min.js'
-import demo from './markdata/demo/demo.js'
+import { MdFile } from './reamparser.js/ream.min.js'
+import demo from './ream-demo/demo.js'
 
 export default {
   props: [
